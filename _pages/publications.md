@@ -15,6 +15,112 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+---
+---
+
+@article{chojkiewicz2023accelerating,
+  title={Accelerating transmission expansion by using advanced conductors in existing right-of-way},
+  author={Chojkiewicz, Emilia and Paliwal, Umed and Abhyankar, Nikit and Baker, Casey and O’Connell, Ric and Callaway, Duncan and Phadke, Amol},
+  journal={Energy Institute at Haas},
+  year={2023}
+}
+
+@article{chojkiewicz2024accelerating,
+  title={Accelerating transmission capacity expansion by using advanced conductors in existing right-of-way},
+  author={Chojkiewicz, Emilia and Paliwal, Umed and Abhyankar, Nikit and Baker, Casey and O’Connell, Ric and Callaway, Duncan and Phadke, Amol},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={121},
+  number={40},
+  pages={e2411207121},
+  year={2024},
+  publisher={National Academy of Sciences},
+  selected={true}
+}
+
+@article{chojkiewicz2024economic,
+  title={Economic Case for Replacing High-Emitting Peaker Plants with Fuel Cells for Automotive Applications},
+  author={Chojkiewicz, Emilia and Phadke, Amol},
+  journal={ACS Omega},
+  volume={9},
+  number={34},
+  pages={36445--36452},
+  year={2024},
+  publisher={American Chemical Society}
+}
+
+@article{chojkiewicz2024leveraging,
+  title={Leveraging automotive fuel cells can supply zero-emission peak power in the near-term},
+  author={Chojkiewicz, Emilia and Phadke, Amol},
+  journal={iScience},
+  volume={27},
+  number={7},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{paliwal2024existing,
+  title={Existing fossil fuel plants sharing grid access with renewables can rapidly and cost-effectively double US generation capacity},
+  author={Paliwal, Umed and Chojkiewicz, Emilia and Abhyankar, Nikit and Phadke, Amol},
+  year={2024}
+}
+
+@article{chojkiewicz20242035,
+  title={The 2035 Report: Reconductoring},
+  author={Chojkiewicz, Emilia and Paliwal, Umed and Abhyankar, Nikit and Baker, Casey and O’Connell, Ric and Callaway, Duncan and Phadke, Amol},
+  year={2024}
+}
+
+@article{mohanty2023review,
+  title={Review of Grid-Scale Energy Storage Technologies Globally and in India},
+  author={Mohanty, Priyanka and Chojkiewicz, Emilia and Sarkar, Epica Mandal and Laumas, Rohit and Saraf, Akash and Satheesh, Avanthika and Abhyankar, Nikit},
+  year={2023}
+}
+
+@inproceedings{chojkiewicz2023zero,
+  title={Zero-emission peaker from heavy-duty vehicle fuel cells and salt cavern hydrogen storage},
+  author={Chojkiewicz, Emilia and Phadke, Amol},
+  booktitle={The Global Energy Transition Toward Decarbonization: a multi-scalar perspective and transformation, 18th IAEE European Conference, July 24-27, 2023},
+  year={2023},
+  organization={International Association for Energy Economics}
+}
+
+@article{atalla2019energy,
+  title={Energy Consumption Analysis \& Proposed Retrofit of a Duke University Dormitory},
+  author={Atalla, Nadim and Chojkiewicz, Emilia and Jernigan, Chris and Kardous, Nicolas and von Oppenfeld, Brigitte and Yuan, Cassie},
+  year={2019},
+  publisher={Duke Visible Thinking}
+}
+
+@article{chojkiewicz2025declining,
+  title={Declining costs make solar plus storage economical for industrial captive power},
+  author={Chojkiewicz, Emilia and Abhyankar, Nikit and Paliwal, Umed and Phadke, Amol},
+  journal={iScience},
+  volume={28},
+  number={11},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{chojkiewicz2026utilizing,
+  title={Utilizing Noncoincident Needs to Site Data Centers with Solar+Storage at Existing Gas Plants},
+  author={Chojkiewicz, Emilia and Manocha, Aneesha and Paliwal, Umed and Callaway, Duncan and Phadke, Amol},
+  journal={Energy Institute at Haas},
+  year={2026},
+  selected={true}
+}
+
+@misc{bennett2026economic,
+  title={Economic Case for Green Steel Production in India},
+  author={Bennett, Jose Dominguez and Jain, Neelima and Chojkiewicz, Emilia and Abhyankar, Nikit and Phadke, Amol},
+  url={https://iecc.gspp.berkeley.edu/resources/the-economic-case-for-green-steel/},
+  year={2026}
+}
+
+@article{chojkiewicz2025plummeting,
+  title={Plummeting solar+ storage auction prices in India unlock affordable, inflation-proof 24/7 clean power},
+  author={Chojkiewicz, Emilia and Abhyankar, Nikit and Phadke, Amol},
+  journal={Berkeley, CA: India Energy \& Climate Center, Goldman School of Public Policy, University of California},
+  year={2025}
+}
 
 </div>
