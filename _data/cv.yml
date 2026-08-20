@@ -1,0 +1,62 @@
+cv:
+  name: YOUR_FULL_NAME
+  label: PhD Researcher, Energy and Resources Group, UC Berkeley
+  email: YOUR_EMAIL@berkeley.edu
+  location: Berkeley, CA
+  image: ""
+  summary: >
+    Researching power system decarbonization -- reconductoring, surplus interconnection,
+    battery storage economics, and nodal capacity expansion -- with work that has
+    informed California and federal energy policy.
+
+  social_networks:
+    - network: GitHub
+      username: YOUR_GITHUB_USERNAME
+    - network: LinkedIn
+      username: YOUR_LINKEDIN_USERNAME
+
+  sections:
+    Education:
+      - institution: University of California, Berkeley
+        location: Berkeley, CA
+        url: https://erg.berkeley.edu/
+        area: Energy and Resources
+        studyType: PhD
+        start_date:
+        end_date:
+        highlights:
+          - "Dissertation focus: TBD"
+
+    Experience:
+      - company: Energy and Resources Group, UC Berkeley
+        position: PhD Researcher
+        location: Berkeley, CA
+        start_date:
+        end_date:
+        summary: >
+          Power system decarbonization research: reconductoring with advanced conductors,
+          surplus interconnection, nodal capacity expansion modeling, feeder-level demand
+          disaggregation, and grid interfaces for AI data center load.
+        highlights:
+          - Research has informed California legislation (SB 1006, AB 1408)
+
+    Policy Impact:
+      - title: SB 1006
+        awarder: California State Legislature
+        date:
+        summary: Add a sentence on how your research fed into this bill.
+
+      - title: AB 1408
+        awarder: California State Legislature
+        date:
+        summary: Add a sentence on how your research fed into this bill.
+
+    Skills:
+      - name: Power Systems Modeling
+        keywords: "Nodal capacity expansion, load flow, grid planning"
+      - name: Data and Analysis
+        keywords: "Python, statistical forecasting, hierarchical reconciliation"
+
+# Delete any section above you don't need, or add back Awards, Publications,
+# Certificates, Volunteer, Projects, References -- see al-folio's docs/CUSTOMIZE.md
+# for the field names each section type expects.
