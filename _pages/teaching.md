@@ -8,5 +8,4 @@ nav_order: 6
 ---
 
 <!-- This page displays a collection of courses with detailed schedules, materials, and resources. -->
-<!-- Add a {% include calendar.liquid ... %} or {% include courses.liquid %} once you have content. -->
-<!-- See docs/CUSTOMIZE.md for the full syntax. -->
+<!-- See al-folio's docs/CUSTOMIZE.md for the calendar and courses include syntax once you have content. -->
