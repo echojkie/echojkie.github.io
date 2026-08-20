@@ -3,9 +3,9 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 
 cv_pdf: /assets/pdf/cv.pdf # replace assets/pdf/cv.pdf with your actual CV
-email: YOUR_EMAIL@berkeley.edu
-github_username: YOUR_GITHUB_USERNAME
-linkedin_username: YOUR_LINKEDIN_USERNAME
-scholar_userid: # your Google Scholar ID, e.g. qc6CJjYAAAAJ
-orcid_id: # your ORCID ID, e.g. 0000-0000-0000-0000
+email: emiliac@berkeley.edu
+github_username: echojkie
+linkedin_username: enc
+scholar_userid: KpYvG4MAAAAJ # your Google Scholar ID, e.g. qc6CJjYAAAAJ
+orcid_id: 0000-0002-5714-0798 # your ORCID ID, e.g. 0000-0000-0000-0000
 rss_icon: true
