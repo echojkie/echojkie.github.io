@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher, Energy and Resources Group, UC Berkeley
+subtitle: PhD Candidate, Energy and Resources Group, UC Berkeley
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Energy and Resources Group</p>
     <p>UC Berkeley</p>
@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD researcher in the [Energy and Resources Group](https://erg.berkeley.edu/) at UC Berkeley, working on power system decarbonization with a focus on getting more out of the grid infrastructure we already have.
+I'm a PhD candidate in the [Energy and Resources Group](https://erg.berkeley.edu/) at UC Berkeley, focusing on grid planning to accelerate power system decarbonization by leveraging the existing system. 
 
-My research spans reconductoring with advanced conductors, surplus interconnection, the falling cost of battery storage, nodal capacity expansion modeling, and — more recently — how AI data center demand interfaces with the grid. Some of this work has fed into California state legislation (SB 1006, AB 1408) and federal policy conversations.
+My research spans reconductoring with advanced conductors, surplus interconnection, the falling costs of battery storage, how AI data center demand interfaces with the grid, and - at present - building a nodal power flow model of the Western Interconnection to assess the operational feasibility of these strategies in practice. My work has helped inform California state legislation (SB 1006, AB 1408) and federal policy conversations (e.g. the Department of Energy, the White House, the Senate Budget Committee). I regularly work with utilities, system operators, policymakers, think tanks and consulting groups to translate technical grid research into actionable policy and planning decisions.
 
-I split my time between technical research aimed at policymakers, public writing and outreach, and teaching — with an eye toward a career that moves between academia and the public sector. I'm also open to select consulting engagements in this space; see below or [get in touch](#) if that's relevant to you.
+I split my time between research, outreach, and teaching — with an eye toward a career that moves between academia and the public sector. I'm also open to select consulting engagements in this space; see below or [get in touch](#) if that's relevant to you.
