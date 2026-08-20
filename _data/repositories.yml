@@ -1,5 +1,10 @@
-github_users:
-  - YOUR_GITHUB_USERNAME
+# Once you have a real GitHub account, uncomment and fill in below.
+# Leaving these empty avoids a live GitHub API lookup at build time
+# against a placeholder username, which would break the build.
+
+github_users: []
+# github_users:
+#   - YOUR_GITHUB_USERNAME
 
 repo_description_lines_max: 2
 
