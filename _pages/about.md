@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate in the [Energy and Resources Group](https://erg.berkeley.edu/) at UC Berkeley, focusing on grid planning to accelerate power system decarbonization by leveraging the existing system. 
+I'm a PhD candidate in the [Energy and Resources Group](https://erg.berkeley.edu/) at UC Berkeley, focusing on grid planning to accelerate power system decarbonization by better leveraging the existing system. 
 
 My prior work has analyzed reconductoring with advanced conductors, surplus interconnection, the falling costs of battery storage, how AI data center demand interfaces with the grid, and - at present - building a nodal power flow model of the Western Interconnection to assess the operational feasibility of these strategies in practice. My work has helped inform state legislation (e.g. California's SB 1006, AB 3246, AB 1408; Illinois' SB 422) and federal policy conversations (e.g. the Department of Energy, the White House, the Senate Budget Committee). I regularly work with utilities, system operators, OEMs, policymakers, industry partners, think tanks and consulting groups to translate technical grid research into actionable policy and planning decisions - in the U.S., Europe, and across emerging economies such as India and Indonesia.
 
