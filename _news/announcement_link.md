@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've been named a **Link Foundation Energy Fellow**. Grateful for their support of my research!
+Excited to share that I've been named a **Link Foundation Energy Fellow**. I am grateful for their support!
